@@ -1,5 +1,3 @@
-
-# Workshop 2025-
 # 🤖 AI Tools in Research Workshop 2025
 
 <p align="center">
