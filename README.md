@@ -4,15 +4,8 @@
   <img src="https://github.com/user-attachments/assets/d08067e6-ce80-482b-a3c6-b4ca3ee35061" width="500"/>
 </p>
 
-## 📌 Overview
-
-This repository contains workshop materials, presentation slides, and resources for the workshop:
-
 > **AI Tools in Research: Streamlining the Research Lifecycle with AI**
-
-Conducted by **Dr. Rabia Javed**  
-Computer Science Department  
-Lahore College for Women University, Lahore.
+> <img width="796" height="446" alt="ai" src="https://github.com/user-attachments/assets/4d5d5f64-e11a-492b-ad12-7393e8442d8c" />
 
 ---
 
