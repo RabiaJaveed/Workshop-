@@ -1,11 +1,5 @@
 
 # Workshop 2025-
-
-# AI Tools for Research 🚀
-[AI Tools in Research.pdf](https://github.com/user-attachments/files/27580064/AI.Tools.in.Research.pdf)
-
-<img src="https://github.com/user-attachments/assets/d08067e6-ce80-482b-a3c6-b4ca3ee35061" width="400"/>
-
 # 🤖 AI Tools in Research Workshop 2025
 
 <p align="center">
@@ -207,9 +201,3 @@ SciSpace
 Academic Writing & Editing
       ↓
 Paperpal
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/short-course.git
