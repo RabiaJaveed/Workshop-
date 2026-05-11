@@ -1,5 +1,7 @@
-# Workshop-
-# Short Course 🚀
+# Workshop 2025-
+
+# AI Tools for Research 🚀
+[AI Tools in Research.pdf](https://github.com/user-attachments/files/27580064/AI.Tools.in.Research.pdf)
 
 Welcome to the Short Course repository.
 
