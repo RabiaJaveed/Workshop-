@@ -118,3 +118,131 @@ for biomedical and life sciences research.
 </tr>
 
 </table>
+<h1 align="center">🤖 AI Tools for Paper Discovery</h1>
+
+<table>
+<tr>
+<th>No.</th>
+<th>Name</th>
+<th>Description</th>
+<th>Tools</th>
+</tr>
+
+<tr>
+<td>1.</td>
+<td><b>Zeta Alpha</b></td>
+<td>
+Zeta Alpha is a Neural Discovery Platform that uses AI-powered search
+and generative AI to help researchers discover, organize, and share knowledge.
+</td>
+<td align="center">
+<a href="https://www.zeta-alpha.com/">🔗</a>
+</td>
+</tr>
+
+<tr>
+<td>2.</td>
+<td><b>EvidenceHunt</b></td>
+<td>
+EvidenceHunt is an AI-powered clinical evidence search engine that helps
+healthcare professionals quickly find the latest and most relevant evidence.
+</td>
+<td align="center">
+<a href="https://evidencehunt.com/">🔗</a>
+</td>
+</tr>
+
+<tr>
+<td>3.</td>
+<td><b>Semantic Scholar</b></td>
+<td>
+Semantic Scholar is an AI-powered research tool that aggregates scientific
+literature and helps scholars discover relevant publications.
+</td>
+<td align="center">
+<a href="https://www.semanticscholar.org/">🔗</a>
+</td>
+</tr>
+
+<tr>
+<td>4.</td>
+<td><b>R Discovery</b></td>
+<td>
+R Discovery helps researchers find relevant literature, stay updated on
+latest research, and collaborate with other researchers.
+</td>
+<td align="center">
+<a href="https://discovery.researcher.life/">🔗</a>
+</td>
+</tr>
+
+<tr>
+<td>5.</td>
+<td><b>Connected Papers</b></td>
+<td>
+Connected Papers visually explores relationships between research papers
+through citation-based network graphs.
+</td>
+<td align="center">
+<a href="https://www.connectedpapers.com/">🔗</a>
+</td>
+</tr>
+
+<tr>
+<td>6.</td>
+<td><b>Consensus.app</b></td>
+<td>
+Consensus extracts and summarizes key findings from research papers into
+easy-to-understand evidence-based answers.
+</td>
+<td align="center">
+<a href="https://consensus.app/">🔗</a>
+</td>
+</tr>
+
+<tr>
+<td>7.</td>
+<td><b>Elicit</b></td>
+<td>
+Elicit helps researchers automate literature review tasks using advanced AI
+language models for searching and analyzing papers.
+</td>
+<td align="center">
+<a href="https://elicit.com/">🔗</a>
+</td>
+</tr>
+
+<tr>
+<td>8.</td>
+<td><b>Humata AI</b></td>
+<td>
+Humata AI helps users summarize, analyze, and chat with research documents
+and PDFs using artificial intelligence.
+</td>
+<td align="center">
+<a href="https://www.humata.ai/">🔗</a>
+</td>
+</tr>
+
+<tr>
+<td>9.</td>
+<td><b>Publish or Perish</b></td>
+<td>
+Publish or Perish retrieves and analyzes academic citations from multiple
+data sources to calculate citation metrics and research impact.
+</td>
+<td align="center">
+<a href="https://harzing.com/resources/publish-or-perish">🔗</a>
+</td>
+</tr>
+
+</table>
+
+<br>
+
+<p>
+These tools significantly enhance the efficiency and effectiveness of
+literature searches in academic research. They help researchers access
+extensive databases, analyze papers intelligently, and generate comprehensive
+literature reviews.
+</p>
